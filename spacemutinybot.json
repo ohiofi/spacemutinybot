@@ -1,9 +1,12 @@
 {
     "origin": [
-         "#[caption:#name#!]makeSVG#",
-        "#[caption:#sentence#]makeSVG#"
+         "#[caption:#name#!]makeSVGname#",
+        "#[caption:#sentence#]makeSVGsentence#"
     ],
-    "makeSVG": [
+    "makeSVGname": [
+        "#caption# {svg <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 960 540' width='960px' height='540px' preserveAspectRatio='xMidYMid meet'><image href='#imageURLs#' x='0' y='0' width='960px' height='540px' preserveAspectRatio='xMidYMid slice'/><text x='50%' y='90%' text-anchor='middle' dominant-baseline='middle' font-family='Impact, Arial, sans-serif' font-weight='700' style='font-size:16vmin; letter-spacing:1px; paint-order:stroke fill;'><tspan fill='white' stroke='black' stroke-width='10px'>#caption#</tspan></text></svg>}{alt A screenshot from the 1988 movie Space Mutiny. The image shows a #adjective#, 1980's action hero with meme text that says: #caption#}"
+    ],
+    "makeSVGsentence": [
         "#caption# {svg <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 960 540' width='960px' height='540px' preserveAspectRatio='xMidYMid meet'><image href='#imageURLs#' x='0' y='0' width='960px' height='540px' preserveAspectRatio='xMidYMid slice'/><text x='50%' y='90%' text-anchor='middle' dominant-baseline='middle' font-family='Impact, Arial, sans-serif' font-weight='700' style='font-size:10vmin; letter-spacing:1px; paint-order:stroke fill;'><tspan fill='white' stroke='black' stroke-width='10px'>#caption#</tspan></text></svg>}{alt A screenshot from the 1988 movie Space Mutiny. The image shows a #adjective#, 1980's action hero with meme text that says: #caption#}"
     ],
     "adjective":["typical","muscular","garden-variety","jock","beefcake"],
@@ -167,6 +170,12 @@
         "",
         "",
         "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
         "Mc",
         "O'",
         "St.",
@@ -193,7 +202,7 @@
         "Butt",
         "Chest",
         "Chonk",
-        "Chunkman",
+        "Chunk",
         "Clench",
         "Crag",
         "Crank",
@@ -319,7 +328,6 @@
         "Maw",
         "Meal",
         "Meat",
-        "Meatwich",
         "Monger",
         "More",
         "Muscle",
@@ -332,7 +340,6 @@
         "Punch",
         "Rage",
         "Ripper",
-        "Ripwell",
         "Rock",
         "Rod",
         "Run",
@@ -429,13 +436,7 @@
   "https://raw.githubusercontent.com/ohiofi/spacemutinybot/refs/heads/main/images/resized/screenshot00070.png",
   "https://raw.githubusercontent.com/ohiofi/spacemutinybot/refs/heads/main/images/resized/screenshot00071.png",
   "https://raw.githubusercontent.com/ohiofi/spacemutinybot/refs/heads/main/images/resized/screenshot00072.png",
-  "https://raw.githubusercontent.com/ohiofi/spacemutinybot/refs/heads/main/images/resized/screenshot00073.png",
-  "https://raw.githubusercontent.com/ohiofi/spacemutinybot/refs/heads/main/images/resized/screenshot00074.png",
-  "https://raw.githubusercontent.com/ohiofi/spacemutinybot/refs/heads/main/images/resized/screenshot00075.png",
-  "https://raw.githubusercontent.com/ohiofi/spacemutinybot/refs/heads/main/images/resized/screenshot00076.png",
-  "https://raw.githubusercontent.com/ohiofi/spacemutinybot/refs/heads/main/images/resized/screenshot00077.png",
-  "https://raw.githubusercontent.com/ohiofi/spacemutinybot/refs/heads/main/images/resized/screenshot00078.png",
-  "https://raw.githubusercontent.com/ohiofi/spacemutinybot/refs/heads/main/images/resized/screenshot00079.png"
+  "https://raw.githubusercontent.com/ohiofi/spacemutinybot/refs/heads/main/images/resized/screenshot00073.png"
 ]
 }
 
