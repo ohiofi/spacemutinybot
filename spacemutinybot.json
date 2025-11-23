@@ -4,16 +4,31 @@
         "#[caption:#sentence#]makeSVGsentence#"
     ],
     "makeSVGname": [
-        "#caption# {svg <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 960 540' width='960px' height='540px' preserveAspectRatio='xMidYMid meet'><image href='#imageURLs#' x='0' y='0' width='960px' height='540px' preserveAspectRatio='xMidYMid slice'/><text x='50%' y='90%' text-anchor='middle' dominant-baseline='middle' font-family='Impact, Arial, sans-serif' font-weight='700' style='font-size:16vmin; letter-spacing:1px; paint-order:stroke fill;'><tspan fill='white' stroke='black' stroke-width='10px'>#caption#</tspan></text></svg>}{alt A screenshot from the 1988 movie Space Mutiny. The image shows a #adjective#, 1980's action hero with meme text that says: #caption#}"
+        "#caption# {svg <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 960 540' width='960px' height='540px' preserveAspectRatio='xMidYMid meet'><image href='#imageURLs#' x='0' y='0' width='960px' height='540px' preserveAspectRatio='xMidYMid slice'/><text x='50%' y='90%' text-anchor='middle' dominant-baseline='middle' font-family='Arial, sans-serif' font-weight='700' style='font-size:16vmin; letter-spacing:1px; paint-order:stroke fill;'><tspan fill='white' stroke='black' stroke-width='10px'>#caption#</tspan></text></svg>}{alt A screenshot from the 1988 movie Space Mutiny. The image shows a #adjective#, 1980's action hero with meme text that says: #caption#}"
     ],
     "makeSVGsentence": [
-        "#caption# {svg <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 960 540' width='960px' height='540px' preserveAspectRatio='xMidYMid meet'><image href='#imageURLs#' x='0' y='0' width='960px' height='540px' preserveAspectRatio='xMidYMid slice'/><text x='50%' y='90%' text-anchor='middle' dominant-baseline='middle' font-family='Impact, Arial, sans-serif' font-weight='700' style='font-size:10vmin; letter-spacing:1px; paint-order:stroke fill;'><tspan fill='white' stroke='black' stroke-width='10px'>#caption#</tspan></text></svg>}{alt A screenshot from the 1988 movie Space Mutiny. The image shows a #adjective#, 1980's action hero with meme text that says: #caption#}"
+        "#caption# {svg <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 960 540' width='960px' height='540px' preserveAspectRatio='xMidYMid meet'><image href='#imageURLs#' x='0' y='0' width='960px' height='540px' preserveAspectRatio='xMidYMid slice'/><text x='50%' y='90%' text-anchor='middle' dominant-baseline='middle' font-family='Arial, sans-serif' font-weight='700' style='font-size:10vmin; letter-spacing:1px; paint-order:stroke fill;'><tspan fill='white' stroke='black' stroke-width='10px'>#caption#</tspan></text></svg>}{alt A screenshot from the 1988 movie Space Mutiny. The image shows a #adjective#, 1980's action hero with meme text that says: #caption#}"
     ],
     "adjective":["typical","muscular","garden-variety","jock","beefcake"],
     "name": [
         "#firstNames# #prefixes##lastNames1##lastNames2#"
     ],
     "sentence": [
+        "I am #name#",
+        "#name# is here",
+        "#name#, checking in",
+        "#name# here",
+        "Yes. I am #name#",
+        "#name#, astronaut",
+        "#name# at the controls",
+        "#name# here",
+        "Yep, I'm #name#",
+        "I'm #name#",
+        "#name#, astronaut",
+        "#name# at the controls",
+        "#name# here",
+        "Yep, I'm #name#",
+        "It is I, #name#",
         "I am #name#.",
         "#name# is here",
         "#name#, checking in",
@@ -29,22 +44,7 @@
         "#name# here.",
         "Yep, I'm #name#.",
         "It is I, #name#!",
-        "I am #name#.",
-        "#name# is here",
-        "#name#, checking in",
-        "#name# here.",
-        "Yes. I am #name#.",
-        "#name#, astronaut!",
-        "#name# at the controls",
-        "#name# here.",
-        "Yep, I'm #name#.",
-        "I'm #name#.",
-        "#name#, astronaut!",
-        "#name# at the controls",
-        "#name# here.",
-        "Yep, I'm #name#.",
-        "It is I, #name#!",
-        "#name# on the MOOOOOON!",
+        "#name# on the MOON!",
         "Is this the end of #name#?",
         "I'm #name#, and I won!",
         "We put our faith in #name#",
